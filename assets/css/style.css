@@ -8,6 +8,11 @@ body{
     margin: 0;   
 }
 
+.container2{
+    overflow-y: scroll;
+    max-height: 680px;  
+}
+
 .navbar-wrapper {
     background-color: #f8f9fa;
     border: #cccccc solid 1px;
@@ -83,7 +88,6 @@ a:active {
     width: 960px;
     margin: 0 auto 0;
     border-style: solid; 
-    
 }
 
 .col-md-12{
