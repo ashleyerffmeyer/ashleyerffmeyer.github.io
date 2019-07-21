@@ -183,6 +183,13 @@ form{
     width: 250px;
 }
 
+#train{
+    margin: -25px 20px 0px 20px;
+    padding: 0px 0 100px 0;
+    text-align: center;
+    width: 250px;
+}
+
 #eat-cake-caption{
     font-family: 'Alegreya Sans SC', sans-serif, Times, Times New Roman, serif;
     background-color: #4aaaa5;
@@ -243,6 +250,17 @@ form{
     background-color: #4aaaa5;
     color: #ffffff;
     margin: -5px 0px 40px 20px;
+    padding: 15px 0;
+    text-align: center;
+    width: 250px;
+    position: absolute;
+}
+
+#train-caption{
+    font-family: 'Alegreya Sans SC', sans-serif, Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin: -95px 40px 0px 20px;
     padding: 15px 0;
     text-align: center;
     width: 250px;
