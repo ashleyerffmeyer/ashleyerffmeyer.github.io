@@ -9,8 +9,7 @@ body{
 }
 
 .container2{
-    overflow-y: scroll;
-    max-height: 680px;  
+    overflow: scroll;
 }
 
 .navbar-wrapper {
