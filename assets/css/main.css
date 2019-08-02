@@ -1829,9 +1829,7 @@ input, select, textarea {
 		
 	}
 
-		ul li {
-			
-		}
+
 
 	ol {
 		list-style: decimal;
@@ -2215,6 +2213,8 @@ input, select, textarea {
 			display: inline-block;
 			vertical-align: middle;
 		}
+
+		
 
 		#header header {
 			display: inline-block;
