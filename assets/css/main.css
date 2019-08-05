@@ -82,6 +82,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		scroll-behavior: smooth;
 	}
 
 	*, *:before, *:after {
@@ -129,6 +130,11 @@ input, select, textarea {
 
 	h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {
 		font-weight: 600;
+	}
+
+	h1{
+		font-family: 'Alegreya Sans SC', sans-serif;
+		color: black;
 	}
 
 	h2 {
@@ -2226,7 +2232,7 @@ input, select, textarea {
 			}
 
 		#header h1 {
-			color: #fff;
+			color: black;
 			font-size: 3em;
 			line-height: 1em;
 		}
