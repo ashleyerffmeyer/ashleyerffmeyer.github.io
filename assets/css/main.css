@@ -135,6 +135,7 @@ input, select, textarea {
 	h1{
 		font-family: 'Alegreya Sans SC', sans-serif;
 		color: black;
+		font-weight: 300;
 	}
 
 	h2 {
