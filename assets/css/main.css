@@ -134,8 +134,8 @@ input, select, textarea {
 
 	h1{
 		font-family: 'Alegreya Sans SC', sans-serif;
-		color: black;
-		font-weight: 300;
+		color:#393D47;
+		font-weight: bold;
 	}
 
 	h2 {
@@ -2195,6 +2195,7 @@ input, select, textarea {
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
+		opacity: 0.70;
 		color: #fff;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
@@ -2233,7 +2234,7 @@ input, select, textarea {
 			}
 
 		#header h1 {
-			color: black;
+			color:black;
 			font-size: 3em;
 			line-height: 1em;
 		}
@@ -2364,7 +2365,8 @@ input, select, textarea {
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: inherit;
+					color: black;
+					font-weight: bold;
 					text-decoration: none;
 					border: 0;
 					outline: 0;
