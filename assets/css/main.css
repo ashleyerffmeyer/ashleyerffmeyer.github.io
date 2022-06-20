@@ -2192,11 +2192,10 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/venice-beach-pxhere.com.jpg");
+		background-image: url("../../images/beach-tree-black-and-white-boardwalk-road-white-151744-pxhere.com.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		opacity: 0.70;
 		color: #fff;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
@@ -2238,6 +2237,7 @@ input, select, textarea {
 			color: black;
 			font-size: 3em;
 			line-height: 1em;
+			opacity: 1.0;
 		}
 
 			#header h1 a {
